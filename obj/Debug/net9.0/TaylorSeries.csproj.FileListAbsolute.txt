@@ -1,0 +1,14 @@
+/Users/mnwa/Documents/resh_c#/bin/Debug/net9.0/TaylorSeries
+/Users/mnwa/Documents/resh_c#/bin/Debug/net9.0/TaylorSeries.deps.json
+/Users/mnwa/Documents/resh_c#/bin/Debug/net9.0/TaylorSeries.runtimeconfig.json
+/Users/mnwa/Documents/resh_c#/bin/Debug/net9.0/TaylorSeries.dll
+/Users/mnwa/Documents/resh_c#/bin/Debug/net9.0/TaylorSeries.pdb
+/Users/mnwa/Documents/resh_c#/obj/Debug/net9.0/TaylorSeries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mnwa/Documents/resh_c#/obj/Debug/net9.0/TaylorSeries.AssemblyInfoInputs.cache
+/Users/mnwa/Documents/resh_c#/obj/Debug/net9.0/TaylorSeries.AssemblyInfo.cs
+/Users/mnwa/Documents/resh_c#/obj/Debug/net9.0/TaylorSeries.csproj.CoreCompileInputs.cache
+/Users/mnwa/Documents/resh_c#/obj/Debug/net9.0/TaylorSeries.dll
+/Users/mnwa/Documents/resh_c#/obj/Debug/net9.0/refint/TaylorSeries.dll
+/Users/mnwa/Documents/resh_c#/obj/Debug/net9.0/TaylorSeries.pdb
+/Users/mnwa/Documents/resh_c#/obj/Debug/net9.0/TaylorSeries.genruntimeconfig.cache
+/Users/mnwa/Documents/resh_c#/obj/Debug/net9.0/ref/TaylorSeries.dll
