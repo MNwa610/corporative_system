@@ -1,3 +1,4 @@
+```csharp
 using System;
 
 namespace TaylorSeries
@@ -162,8 +163,10 @@ namespace TaylorSeries
         }
     }
 }
+```
 ![alt text](image.png)
 
+```csharp
 using System;
 
 class Program
@@ -213,10 +216,10 @@ class Program
         }
     }
 }
-
+```
 ![alt text](image-1.png)
 
-
+```csharp
 using System;
 
 class Program
@@ -287,9 +290,9 @@ class Program
         return a;
     }
 }
-
+```
 ![alt text](image-2.png)
-
+```csharp
 using System;
 
 class Program
@@ -343,8 +346,10 @@ class Program
         Console.WriteLine($"Потребовалось вопросов: {attempts}");
     }
 }
+```
 ![alt text](image-3.png)
 
+```csharp
 using System;
 
 class Program
@@ -498,9 +503,9 @@ class Program
         }
     }
 }
-
+```
 ![alt text](image-4.png)
-
+```csharp
 using System;
 
 class Program
@@ -579,9 +584,9 @@ class Program
         }
     }
 }
-
+```
 ![alt text](image-5.png)
-
+```csharp
 using System;
 
 class Program
@@ -708,5 +713,5 @@ class Program
         }
     }
 }
-
+```
 ![alt text](image-6.png)
